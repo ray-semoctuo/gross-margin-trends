@@ -1,0 +1,9 @@
+# Python 3.13.7
+requests==2.34.2
+pandas==3.0.3
+polars==1.41.0
+pyarrow==24.0.0
+plotnine==0.15.4
+mizani==0.14.4
+great-tables==1.1.0
+jupyterlab==4.6.5
